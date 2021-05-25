@@ -1,4 +1,4 @@
-### Hi 👋
+### Hello! 👋
 
 I’m a self-taught Python and JavaScript programmer with a Bachelor's degree in Mechanical Engineering. I'm currently working on re-factoring the codebase of [av-converter](https://github.com/CrypticSignal/av-converter) to use the Redux library.
 
