@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi, it's Hamas 👋
 
-- 🔭 I’m currently working on re-factoring the codebase for av-converter to use the Redux library.
-- 💬 You can contact me via Discord - Cryptic Signal#4416
+I’m a 25-year-old Python and JavaScript programmer with a Bachelor's degree in Mechanical Engineering. I'm currently working on re-factoring the codebase of [av-converter](https://github.com/CrypticSignal/av-converter) to use the Redux library.
+
+💬 I can be contacted via Discord - Cryptic Signal#4416
 
 ![CrypticSignal's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrypticSignal&show_icons=true&theme=dark)
 
