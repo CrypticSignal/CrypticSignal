@@ -6,6 +6,8 @@ I enjoy programming as it allows me to make something that is useful, saves time
 
 The most recent thing I've learnt is the Redux library, and I have made use of Redux for my [av-converter](https://github.com/CrypticSignal/av-converter) website, which allows users to convert audio and video files to another format. It has a Python/Flask backend and React frontend.
 
+Audio is another interest of mine, and what you see in my profile picture is my SVS PB-1000 subwoofer. I'm using a pair of Monitor Audio RX2 speakers as my fronts with the crossover at 80 Hz. I would like to upgrade one day, possibly to a pair of JTR towers for my fronts and 15" (or larger) subwoofers.
+
 💬 I can be contacted via Discord - Cryptic Signal#4416
 
 ![CrypticSignal's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrypticSignal&show_icons=true&theme=dark)
