@@ -2,7 +2,7 @@
 
 I’m a self-taught Python and JavaScript programmer with a Bachelor's degree in Mechanical Engineering.
 
-Programming gives me a feeling of satisfaction - making something that is useful. Also, there is always something to learn, whether it be a particular library or a new programming language, and that keeps things interesting.
+Programming gives me a feeling of satisfaction - making something that is useful, saves time or helps others. Also, there is always something to learn, whether it be a particular library or a new programming language, and that keeps things interesting.
 
 The most recent thing I've learnt is the Redux library, and I have made use of Redux for my [av-converter](https://github.com/CrypticSignal/av-converter) website, which allows users to convert audio and video files to another format. It has a Python/Flask backend and React frontend.
 
