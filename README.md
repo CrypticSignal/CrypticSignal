@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I’m a self-taught Python and JavaScript programmer with a Bachelor's degree in Mechanical Engineering.
+I’m a full-stack JavaScript and Python programmer. Predominantly self-taught.
 
 I enjoy programming as it allows me to make something that is useful, saves time or helps others. Also, there is always something to learn, whether it be a particular library or a new programming language, and that keeps things interesting.
 
