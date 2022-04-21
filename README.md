@@ -1,4 +1,4 @@
-### Hello!= 👋
+### Hello 👋
 
 I’m a full-stack JavaScript and Python programmer. Predominantly self-taught.
 
