@@ -9,5 +9,3 @@ High-end audio is another interest of mine, and what you see in my profile pictu
 💬  I can be contacted via email or Discord - Cryptic Signal#4416
 
 ![CrypticSignal's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrypticSignal&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrypticSignal&theme=dark)](https://github.com/CrypticSignal/github-readme-stats)
