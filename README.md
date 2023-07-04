@@ -1,8 +1,7 @@
 <div align="center">
-<!--   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=I'm+a+full-stack+developer.;Mostly+self-taught.;Always+learning!"> -->
   
-  [![CrypticSignal's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrypticSignal&hide=contribs,issues&count_private=true&theme=transparent&show_icons=true&hide_rank=true&number_format=long&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=I'm+a+full-stack+developer.;Mostly+self-taught.;Always+learning!"> -->
+![CrypticSignal's stats](https://github-readme-stats.vercel.app/api?username=CrypticSignal&rank_icon=percentile&show_icons=true&count_private=true&hide=contribs,issues&theme=ocean_dark)
   <h3>Tech Stack:</h3>
   <table>
     <tr>
