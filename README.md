@@ -2,7 +2,6 @@
   
 <!--   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=I'm+a+full-stack+developer.;Mostly+self-taught.;Always+learning!"> -->
 ![CrypticSignal's stats](https://github-readme-stats.vercel.app/api?username=CrypticSignal&rank_icon=github&show_icons=true&count_private=true&hide=contribs,issues&theme=ocean_dark)
-  <h3>Tech Stack:</h3>
   <table>
     <tr>
       <td align="center" width="64">
