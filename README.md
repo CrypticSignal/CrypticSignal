@@ -1,8 +1,3 @@
-<h2 align="center">
-  Hello
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">
-</h2>
-
 <div align="center">
 <!--   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=I'm+a+full-stack+developer.;Mostly+self-taught.;Always+learning!"> -->
   
