@@ -26,11 +26,6 @@
       </td>
       <td align="center" width="64">
         <a>
-          <img src="./SVGs/bootstrap.svg" width="32" height="32" alt="Bootstrap" />
-        </a>
-      </td>
-      <td align="center" width="64">
-        <a>
           <img src="./SVGs/python.svg" width="32" height="32" alt="Python" />
         </a>
       </td>
