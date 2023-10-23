@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=crypticsignal&title=MultiLanguage,Commits,Repositories&column=-1&theme=matrix"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=I'm a full-time Software Engineer;Passionate about high-end audio;Currently running a 2.1;Will delve into car audio;Below are some of my skills:">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&center=true&multiline=true&random=false&width=625&height=130&lines=I'm+a+full-time+Software+Engineer.;Into+high-end+audio+and+combustion+engine+cars.;Currently+running+a+2.1+with+the+crossover+at+80+Hz.;Looking+forward+to+delving+into+car+audio.;Below+are+some+of+my+skills%3A)](https://git.io/typing-svg)
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -16,5 +16,4 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/></a>
-
 </div>
