@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=crypticsignal&title=MultiLanguage,Commits,Repositories&column=-1&theme=matrix"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&center=true&multiline=true&random=false&width=625&height=130&lines=I'm+a+full-time+Software+Engineer.;Into+high-end+audio+and+combustion+engine+cars.;Currently+running+a+2.1+with+the+crossover+at+80+Hz.;Looking+forward+to+delving+into+car+audio.;Below+are+some+of+my+skills%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&multiline=true&random=false&width=600&height=80&lines=I'm+a+full-time+Software+Engineer.;Into+high-end+audio+and+combustion+engine+cars.;Some+of+my+skills+can+be+found+below%3A)](https://git.io/typing-svg)
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
