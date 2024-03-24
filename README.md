@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=crypticsignal&title=MultiLanguage,Commits,Repositories&column=-1&theme=matrix"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&multiline=true&random=false&width=600&height=80&lines=Welcome+to+my+profile.;You+can+find+my+open-source+projects+below.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&multiline=true&random=false&width=600&height=80&lines=Welcome+to+my+profile.;You+can+find+some+of+my+skills+below.)](https://git.io/typing-svg)
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
