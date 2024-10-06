@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=crypticsignal&title=MultiLanguage,Commits,Repositories&column=-1&theme=matrix"/>
-<h3>PC:<h3>
+<h4>PC:<h4>
 
 Type|Item
 :----|:----
@@ -9,7 +9,7 @@ Type|Item
 **Power Supply** | [Corsair RM850x SHIFT](https://www.corsair.com/uk/en/p/psu/cp-9020252-uk/rm850x-shift-80-plus-gold-fully-modular-atx-power-supply-cp-9020252-uk)
 **Monitor** | [BenQ EX270QM (240Hz)](https://www.benq.eu/en-uk/monitor/gaming/ex270qm.html)
 **Keyboard** | [Logitech G915 TKL (GL Tactile switches)](https://www.logitechg.com/en-gb/products/gaming-keyboards/g915-tkl-wireless.html)
-<h3>2.1 Audio Setup:<h3>
+<h4>2.1 Audio Setup:<h4>
 
 Type|Item
 :----|:----
@@ -17,7 +17,7 @@ Type|Item
 **Amplifier** | [Rogersound Labs iA255.1](https://rslspeakers.com/products/rsl-ia255-1)
 **Speakers** | [Polk R100](https://www.polkaudio.com/en/product/home-speakers/bookshelf/reserve-r100/R100.html)
 **Subwoofer** | [SVS SB-3000 (800W RMS, 2500W peak)](https://www.svsound.com/products/sb-3000)
-<h3>Headphones Setup:<h3>
+<h4>Headphones Setup:<h4>
 
 Type|Item
 :----|:----
@@ -25,7 +25,7 @@ Type|Item
 **Amplifier** | [JDS Labs Atom Amp 2](https://jdslabs.com/product/atom-amp-2/)
 **Headphones (closed-back)** | [Beyerdynamic DT 770 PRO (250 ohms)](https://global.beyerdynamic.com/dt-770-pro.html)
 **Headphones (open-back)** | [AKG K712 PRO](https://uk.akg.com/professional-headphones/K712PRO.html)
-<h3>Living Room:<h3>
+<h4>Living Room:<h4>
 
 Type|Item
 :----|:----
