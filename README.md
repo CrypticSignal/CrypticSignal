@@ -25,14 +25,4 @@ Type|Item
 **Amplifier** | [JDS Labs Atom Amp 2](https://jdslabs.com/product/atom-amp-2/)
 **Headphones (closed-back)** | [Beyerdynamic DT 770 PRO (250 ohms)](https://global.beyerdynamic.com/dt-770-pro.html)
 **Headphones (open-back)** | [AKG K712 PRO](https://uk.akg.com/professional-headphones/K712PRO.html)
-<h4>Living Room:<h4>
-
-Type|Item
-:----|:----
-**TV** | [Samsung QE55S90C (OLED, 4K)](https://www.samsung.com/uk/tvs/oled-tv/s90c-55-inch-qe55s90catxxu)
-**AV receiver** | [Denon AVR-X3400H](https://www.denon.com/en-gb/product/archive-av-receivers/avr-x3400h/800211.html)
-**Front-Left and Front-Right speakers** | [Monitor Audio RX2](https://www.monitoraudio.com/en/support/past-products/silver-rx/rx2/)
-**Centre speaker** | [Monitor Audio RX Centre](https://www.monitoraudio.com/en/support/past-products/silver-rx/rx-centre/)
-**Subwoofer 1** | [SVS PB-1000](https://www.svsound.com/products/pb-1000)
-**Subwoofer 2** | [SVS PB-1000 Pro](https://www.svsound.com/products/pb-1000-pro-subwoofer)
 </div>
