@@ -24,5 +24,5 @@ Type|Item
 **DACs** | [- JDS Labs Atom DAC 2](https://jdslabs.com/product/atom-dac-2/)<br>[- FiiO K11 R2R](https://www.fiio.com/k11r2r)
 **Amplifier** | [iFi ZEN CAN](https://www.amazon.co.uk/iFi-Balanced-Desktop-Headphone-Outputs/dp/B08DD71B3N)
 **Headphones (closed-back)** | [Beyerdynamic DT 770 PRO (250 ohms)](https://europe.beyerdynamic.com/p/dt-770-pro)
-**Headphones (open-back)** | [- Modified HIFIMAN HE400se with SuperGrills](https://customcans.co.uk/shop/product/modified-hifiman-he400se-with-supergrills-and-headstrap/)<br>[- AKG K712 PRO](https://www.amazon.co.uk/AKG-Open-Back-Over-Ear-Reference-Headphones/dp/B00DCXWXEI)
+**Headphones (open-back)** | - [Sennheiser HD 600](https://www.sennheiser-hearing.com/en-UK/p/hd-600/)<br>- [Modified HIFIMAN HE400se with SuperGrills](https://customcans.co.uk/shop/product/modified-hifiman-he400se-with-supergrills-and-headstrap/)<br>- [AKG K712 PRO](https://www.amazon.co.uk/AKG-Open-Back-Over-Ear-Reference-Headphones/dp/B00DCXWXEI)
 </div>
