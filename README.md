@@ -1,28 +1,20 @@
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=crypticsignal&title=MultiLanguage,Commits,Repositories&column=-1&theme=matrix"/>
-<h4>PC:<h4>
 
-Type|Item
-:----|:----
-**CPU** | [AMD Ryzen 7 7700](https://uk.pcpartpicker.com/product/dXmmP6/amd-ryzen-7-7700-36-ghz-8-core-processor-100-100000592box)
-**RAM** | [Kingston FURY Beast 32GB (2 x 16GB) DDR5-6000 CL30](https://uk.pcpartpicker.com/product/q7LdnQ/kingston-fury-beast-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-kf560c30bbek2-32)
-**Power Supply** | [Corsair RM850x SHIFT](https://www.corsair.com/uk/en/p/psu/cp-9020252-uk/rm850x-shift-80-plus-gold-fully-modular-atx-power-supply-cp-9020252-uk)
-**Monitor** | [BenQ EX270QM (240Hz)](https://www.benq.eu/en-uk/monitor/gaming/ex270qm.html)
-**Keyboard** | [Logitech G915 TKL (GL Tactile switches)](https://www.logitechg.com/en-gb/products/gaming-keyboards/g915-tkl-wireless.html)
-<h4>2.1 Audio Setup:<h4>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=CrypticSignal&hide_title=true&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=CrypticSignal&hide_title=true&show_icons=true&include_all_commits=true&theme=dark)
 
-Type|Item
-:----|:----
-**Streamer / DAC** | [WiiM Ultra](https://www.wiimhome.com/wiimultra/overview)
-**Amplifier** | [Rogersound Labs iA255.1](https://rslspeakers.com/products/rsl-ia255-1)
-**Speakers** | [Polk R100](https://www.polkaudio.com/en/product/home-speakers/bookshelf/reserve-r100/R100.html)
-**Subwoofer** | [SVS SB-3000 (800W RMS, 2500W peak)](https://www.svsound.com/products/sb-3000)
-<h4>Headphones Setup:<h4>
+I'm a full-stack software developer for a major ATM deployer in the UK, where I primarily work with Go (Golang), Vue.js and TypeScript.
 
-Type|Item
-:----|:----
-**DACs** | [- JDS Labs Atom DAC 2](https://jdslabs.com/product/atom-dac-2/)<br>[- FiiO K11 R2R](https://www.fiio.com/k11r2r)
-**Amplifier** | [iFi ZEN CAN](https://www.amazon.co.uk/iFi-Balanced-Desktop-Headphone-Outputs/dp/B08DD71B3N)
-**Headphones (closed-back)** | [Beyerdynamic DT 770 PRO (250 ohms)](https://europe.beyerdynamic.com/p/dt-770-pro)
-**Headphones (open-back)** | - [Sennheiser HD 600](https://www.sennheiser-hearing.com/en-UK/p/hd-600/)<br>- [Modified HIFIMAN HE400se with SuperGrills](https://customcans.co.uk/shop/product/modified-hifiman-he400se-with-supergrills-and-headstrap/)<br>- [AKG K712 PRO](https://www.amazon.co.uk/AKG-Open-Back-Over-Ear-Reference-Headphones/dp/B00DCXWXEI)
+My GitHub repositories are personal projects and are not work-related.
+
+High-end audio is a passion of mine. Details of my current living room setup can be found below.
+
+| Type | Item | Image |
+| :-- | :-- | :--: |
+| **Front-Left and Front-Right Speakers** | [Buchardt S400 MK3](https://buchardtaudio.com/collections/all-products/products/s400-mk3) *(awaiting delivery)* | <a href="https://buchardtaudio.com/collections/all-products/products/s400-mk3"><img src="//buchardtaudio.com/cdn/shop/files/3_e6995d80-8e93-49bc-9f37-e1df6533e46e.png?v=1773326124" alt="Buchardt S400 MK3 speakers" height="100"></a> |
+| **Centre Speaker** | [SVS Ultra Evolution Centre](https://www.svsound.com/products/ultra-evolution-center) | <a href="https://www.svsound.com/products/ultra-evolution-center"><img src="https://www.svsound.com/cdn/shop/files/ultraevocenterpg.png?v=1709324416&width=416" alt="SVS Ultra Evolution Centre speaker" height="100"></a> |
+| **Amplifier for FL and FR speakers** | [Buckeye PURIFI 1ET6525SA](https://www.buckeyeamp.com/shop/amplifiers/purifi/1et6525sa/2_channel) (up to 450 watts per channel at 4Ω) | <a href="https://www.buckeyeamp.com/shop/amplifiers/purifi/1et6525sa/2_channel"><img src="https://www.buckeyeamp.com/_next/image?q=100&url=%2F_next%2Fstatic%2Fmedia%2Ffront.111512ca.jpg&w=3840" alt="Buckeye PURIFI 1ET6525SA amplifier" height="100"></a> |
+| **Amplifier for Centre Speaker** | [Buckeye Hypex NC502MP](https://www.buckeyeamp.com/shop/amplifiers/hypex/nc502mp/2_channel) (up to 500 watts per channel at 4Ω) | <a href="https://www.buckeyeamp.com/shop/amplifiers/hypex/nc502mp/2_channel"><img src="https://www.buckeyeamp.com/_next/image?q=100&url=%2F_next%2Fstatic%2Fmedia%2Ffront.a57a4030.jpg&w=3840" alt="Buckeye Hypex NC502MP amplifier" height="100"></a> |
+| **Front Subwoofer** | [SVS SB-3000 R\|Evolution](https://www.svsound.com/products/sb-3000-revolution-subwoofer) (1200 watts RMS and 4000+ watts peak power) | <a href="https://www.svsound.com/products/sb-3000-revolution-subwoofer"><img src="https://www.svsound.com/cdn/shop/files/sb-3000-revolution-hero-BA.png?v=1767638873&width=416" alt="SVS SB-3000 R Evolution subwoofer" height="100"></a> |
+| **Rear Subwoofer** | [SVS SB-3000 R\|Evolution](https://www.svsound.com/products/sb-3000-revolution-subwoofer) (1200 watts RMS and 4000+ watts peak power) | <a href="https://www.svsound.com/products/sb-3000-revolution-subwoofer"><img src="https://www.svsound.com/cdn/shop/files/sb-3000-revolution-hero-BA.png?v=1767638873&width=416" alt="SVS SB-3000 R Evolution subwoofer" height="100"></a> |
+
 </div>
